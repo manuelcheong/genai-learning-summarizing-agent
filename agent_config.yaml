@@ -3,7 +3,7 @@ agent:
   type: adk
   model:
     name: gemini-2.0-flash
-description: Un agente simple de tipo "Hello World" para demostrar la estructura básica de agentes en el proyecto.
+description: Un agente simple que mantiene y actualiza un resumen conciso y preciso de una conversación.
 url: http://summarizing-agent:8080
 version: 1.0.0
 defaultInputModes:
