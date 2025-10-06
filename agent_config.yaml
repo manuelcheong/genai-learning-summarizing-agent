@@ -1,4 +1,4 @@
-name: summarizing agent
+name: summarizing_agent
 agent:
   type: adk
   model:
